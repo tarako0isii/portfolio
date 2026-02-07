@@ -47,7 +47,7 @@ Webアプリを自分で一通り実装してみたかったため。
 - 作品URL:https://votes-github.vercel.app/
 
 
-
+## --作品--②
 ## Anime.jsを用いたインフォグラフィック作品
 
 **概要**  
