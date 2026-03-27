@@ -3,7 +3,7 @@
 ## 自己紹介
 - 名前:佐伯　航河
 - 志望職種：プログラマー
-- 学習中の分野：Python、JavaScript
+- 学習中の分野：Python、JavaScript、SQL、Flask、
 - 主にWebアプリケーション開発に興味があります
 
 
